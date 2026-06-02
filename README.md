@@ -24,6 +24,6 @@ The DNA string is randomly generated and mutated every iteration ,  causing it t
 
 Install required libraries before running.
 
-## AI usage
+### AI usage
 
 AI used for improving logic and execution.
